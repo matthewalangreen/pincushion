@@ -41,7 +41,7 @@ alteration contracts as custom PDF documents.
 
 **Export Contract as PDF (Print & Sign)**
 <p align="center">
-	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/ExportContractAsPDF.gif" alt="Pincushion">
 </p>
 
 ## Communication
