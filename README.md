@@ -19,7 +19,10 @@ alteration contracts as custom PDF documents.
 
 ## Usage & Screenshots
 
-
+**Create Account**
+<p align="center">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+</p>
 
 ## Communication
 
