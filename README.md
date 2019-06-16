@@ -31,7 +31,7 @@ alteration contracts as custom PDF documents.
 
 **Add Alteration**
 <p align="center">
-	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/AddAlteration.gif" alt="Pincushion">
 </p>
 
 **Edit Custom Alteration**
