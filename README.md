@@ -24,6 +24,21 @@ alteration contracts as custom PDF documents.
 	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
 </p>
 
+**Add Alteration**
+<p align="center">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+</p>
+
+**Edit Custom Alteration**
+<p align="center">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+</p>
+
+**Export Contract as PDF (Print & Sign)**
+<p align="center">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+</p>
+
 ## Communication
 
 If you **would like to extend this project**, please connect on [twitter](http://twitter.com/stematthewgreen)
