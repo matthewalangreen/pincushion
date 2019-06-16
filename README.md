@@ -36,7 +36,7 @@ alteration contracts as custom PDF documents.
 
 **Edit Custom Alteration**
 <p align="center">
-	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/CreateAccount.gif" alt="Pincushion">
+	<img src="https://raw.githubusercontent.com/riverpointacademy/pincushion/master/images/EditCustomAlteration.gif" alt="Pincushion">
 </p>
 
 **Export Contract as PDF (Print & Sign)**
